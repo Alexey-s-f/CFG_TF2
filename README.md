@@ -8,4 +8,4 @@ Better For Linux only
 
 
 
-🗨️ CFG made with masterconfig
+🗨️  CFG made with masterconfig
