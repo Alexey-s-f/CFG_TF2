@@ -2,10 +2,10 @@ Just lazy config TF2
 
 
 
-For Linux only
+Better For Linux only
 
 
 
 
 
-🗨️ made with masterconfig
+🗨️ CFG made with masterconfig
